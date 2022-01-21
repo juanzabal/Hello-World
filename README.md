@@ -1,4 +1,4 @@
-# Hello-World
+# Hello, world!
 It's a new dawn.
 
 Hi! I'm Juan and this is my first github repository ever :)
